@@ -1,0 +1,233 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+  width: 68.64%;
+  margin: auto;
+  height: 200px;
+  box-shadow: 0 0 0 2px red, 0 0 0 5px white, 0 0 0 8px red;
+  margin-top: 30px;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+    color: red;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box:hover{
+    transition: 1s;
+    color: green;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #fffc00, #ffffff);
+    text-align: center;
+
+}
+
+.box1{
+    color: fuchsia;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+
+}
+.box1:hover{
+    transition: 1s;
+    color: aqua;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #0fd860 0%, #f9f050 100%);
+    text-align: center;
+}
+
+.box2{
+    color: orange;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box2:hover{
+    transition: 1s;
+    color: palevioletred;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #ff0099, #493240);
+    text-align: center;
+}
+
+.box3{
+    color: darksalmon;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box3:hover{
+    transition: 1s;
+    color: dodgerblue;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #fdc830, #f37335);
+    text-align: center;
+}
+
+.box4{
+    color: aquamarine;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box4:hover{
+    transition: 1s;
+    color: firebrick;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #ef3b36 0%, #ffffff 100%);
+    text-align: center;
+}
+
+.box5{
+    color: salmon;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box5:hover{
+    transition: 1s;
+    color: greenyellow;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #fc466b 0%, #3f5efb 100%);
+    text-align: center;
+}
+
+.box6{
+    color: blue;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box6:hover{
+    transition: 1s;
+    color: brown;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #fdc830, #f37335);
+    text-align: center;
+}
+
+.box7{
+    color: khaki;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box7:hover{
+    transition: 1s;
+    color: brown;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to right, #fdc830, #f37335);
+    text-align: center;
+}
+
+.box8{
+    color: darkorchid;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background:linear-gradient(to right, #1a2a6c 0%, #b21f1f 33%, #fdbb2d 100%);
+    text-align: center;
+}
+.box8:hover{
+    transition: 1s;
+    color: yellowgreen;
+    font-size: 150px;
+    border: 1px solid black;
+    width: 120px;
+    height: 200px;
+    background: linear-gradient(to top, #31cfd0 0%, #330867 100%);
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

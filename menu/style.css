@@ -2,3 +2,70 @@
     margin: 0;
     padding: 0;
 }
+
+.name1{
+    height: 35px;
+    width: 160px;
+    background-color: darkblue;
+    font-size: 20px;
+    margin-left: 350px;
+    margin-top: 30px;
+    float: left;
+    color: yellow;
+    text-indent: 0.1em;
+}
+.name1:hover{
+    background-color: black;
+    transition: 1.5s;
+}
+
+.name2{
+    height: 35px;
+    width: 170px;
+    background-color: darkblue;
+    transform: skew(-30deg);
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 550px;
+    position: absolute;
+    color: yellow;
+}
+
+.name2:hover{
+    background-color: black;
+    transition: 1.5s;
+}
+.p2{
+    position: absolute;
+    color: yellow;
+    margin-top: 35px;
+    margin-left: 60px;
+    font-size: 20px;
+}
+
+.name3{
+    margin-left: 750px;
+    width: 170px;
+    height: 35px;
+    transform: skew(-30deg);
+    background: darkblue;
+    margin-top: 30px;
+    position: absolute;
+}
+.name3:hover{
+    background-color: black;
+    transition: 1.5s;
+}
+.p1{
+    position: absolute;
+    color: yellow;
+    margin-top: 35px;
+    font-size: 20px;
+    margin-left: 270px;
+}
+
+
+
+
+
+
